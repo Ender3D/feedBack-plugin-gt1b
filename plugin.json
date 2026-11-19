@@ -1,0 +1,14 @@
+{
+  "id": "gt1b-setlist",
+  "name": "GT-1B Setlist",
+  "version": "1.0.0",
+  "nav": {
+    "label": "GT-1B",
+    "screen": "gt1b-setlist"
+  },
+  "screen": "screen.html",
+  "script": "screen.js",
+  "routes": "routes.py",
+  "category": "hardware",
+  "description": "Setlist manager with automatic Boss GT-1B USB patch switching."
+}
