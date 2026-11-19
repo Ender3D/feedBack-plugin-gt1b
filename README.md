@@ -15,7 +15,7 @@ A plugin for **fee[dB]ack** that automatically switches User Patches (`U01`–`U
 ## Installation
 1. Clone or download this repository into your fee[dB]ack `plugins/` directory (or your `FEEDBACK_PLUGINS_DIR` folder) as `gt1b-setlist`:
    ```bash
-   git clone https://github.com gt1b-setlist
+   git clone: https://github.com/Ender3D/feedBack-plugin-gt1b.git
    ```
 2. Restart **fee[dB]ack**.
 3. Open the **GT-1B** tab in the navigation menu and click **Connect Boss GT-1B** (grant MIDI/SysEx permission if prompted).
