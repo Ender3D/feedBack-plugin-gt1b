@@ -1,6 +1,6 @@
 # feedBack-plugin-gt1b
 
-A plugin for **fee[dB]ack** that automatically switches User Patches (`U01`–`U99`) on a **Boss GT-1B** bass multi-effects processor over USB whenever a song loads or starts playing.
+A plugin for **Fee[dB]ack** that automatically switches User Patches (`U01`–`U99`) on a **Boss GT-1B** bass multi-effects processor over USB whenever a song loads or starts playing.
 
 ## Features
 - **Automatic Patch Switching:** Listens to fee[dB]ack's `song:loaded` and `playback:ready` events and sends Roland SysEx commands over USB MIDI to switch your GT-1B patch automatically.
